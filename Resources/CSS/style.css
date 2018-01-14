@@ -4,15 +4,10 @@ h1{
   font-size: 50px;
   color: white;
 }
-h1,
-h2,
-h6,
-p,
-video,
-img{
+body{
   background-color: black;
   text-align: center;
-  video: center;
+
 }
 
 p{
@@ -31,4 +26,12 @@ h6{
   font-size: 21px;
   color: grey;
   background-color: black;
+}
+.tent{
+  height: 1023px;
+  width: 675px;
+}
+.footer{
+  text-align: right;
+  color: grey;
 }
